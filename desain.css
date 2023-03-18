@@ -1,0 +1,46 @@
+body{
+   padding: 0%;
+   margin: 0%;
+    
+}
+.container{
+    color: aqua;
+    width: 400px;
+    height: 500px;
+    margin-left:35% ;
+    background-color: black;
+    
+}
+
+.text1{
+   
+    background-color: black;
+    text-align: center;
+}
+.text1 h1{
+    color: aliceblue;
+}
+.gambar img{
+    width: 400px; ;
+}
+.text2{
+    background-color: black;
+    text-align: center;
+}
+.text2 h2{
+    color: white;
+}
+.evo {
+    padding-top: 10px;
+    
+    background-color: blue;
+    text-align: center ;
+    color: white;
+}
+.evo p{
+    font-size: large;
+}
+.evo h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
